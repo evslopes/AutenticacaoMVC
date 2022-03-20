@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Creative - Start Bootstrap Theme</title>
+    <title>TP3</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Bootstrap Icons-->
@@ -30,11 +30,11 @@
     <div class="container px-4 px-lg-5 h-100">
         <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
             <div class="col-lg-8 align-self-end">
-                <h1 class="text-white font-weight-bold">Teste de Performance 3</h1>
+                <h1 class="text-white font-weight-bold">Desenvolvimento Web com Java EE</h1>
                 <hr class="divider" />
             </div>
             <div class="col-lg-8 align-self-baseline">
-                <p class="text-white-75 mb-5">Elvis Freitas Lopes Herllain</p>
+                <p class="text-white-75 mb-5">Teste de Performance 3</p>
             </div>
         </div>
     </div>
